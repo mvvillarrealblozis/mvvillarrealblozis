@@ -1,4 +1,4 @@
-# Hey, I'm Maximiliano Villarreal-Blozis
+# Welcome to my GitHub!
 
 I'm a Computer Science graduate from the University of San Francisco (Cum Laude, B.S. in CS with a Business Analytics minor).  
 I’m passionate about **embedded systems, automation, and hardware-software integration**, and I’m currently preparing for graduate study in **Electrical and Computer Engineering**, with an emphasis on embedded design, FPGA development, and digital systems.
