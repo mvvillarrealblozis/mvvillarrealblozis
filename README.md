@@ -36,7 +36,7 @@ Led a 7-member team developing a Raspberry Pi based robotic arm with OpenCV obje
 ### What I’m Working Toward
 
 I’m pursuing research and advanced coursework in **embedded systems, digital hardware design, and AI for robotics**.  
-My goal is to bridge low-level systems engineering with intelligent automation — building devices that can sense, reason, and act locally, without sacrificing privacy or speed.
+My goal is to bridge low-level systems engineering with intelligent automation, building devices that can sense, reason, and act locally, without sacrificing privacy or speed.
 
 ---
 
