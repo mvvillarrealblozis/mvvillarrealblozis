@@ -27,9 +27,9 @@ Led a 7-member team developing a Raspberry Pi based robotic arm with OpenCV obje
 
 ### 📊 GitHub Stats
 
-![Maximiliano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mvvillarrealblozis&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true&cache_seconds=1800)
+![Maximiliano's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mvvillarrealblozis&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mvvillarrealblozis&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvvillarrealblozis&layout=compact&theme=github_dark&hide_border=true)
 
 --- 
 
