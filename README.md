@@ -1,58 +1,57 @@
-# Welcome to my GitHub!
+# Maximiliano Villarreal-Blozis
+**MS ECE candidate at UC Davis · ASIC & Digital Design**
 
-I'm a Computer Science graduate from the University of San Francisco (Cum Laude, B.S. in CS with a Business Analytics minor).  
-I’m passionate about **embedded systems, automation, and hardware-software integration**, and I’m currently preparing for graduate study in **Electrical and Computer Engineering**, with an emphasis on embedded design, FPGA development, and digital systems.
-
----
-
-### What I’ve Built
-
-**RISC-V Processors**  
-Designed both single-cycle and pipelined RISC-V CPUs, including a hazard-unit implementation for branch and data dependency handling.
-
-**Operating Systems Work (xv6)**  
-Implemented multiple shell utilities and system calls (e.g., `kill`, `df`, `trace`) to understand process management, I/O, and scheduling.
-
-**Data Logger System (Jacobi Motors LLC)**  
-Developed a multi-process telemetry logger on Raspberry Pi 4 using Python, PyDrive, and 4G HAT modules.  
-Included file compression, error handling, and automated Google Drive uploads for remote data collection.
-
-**PyQt5 GUI & Dockerized Tools**  
-Built a cross-platform desktop interface for the company’s dyno automation toolchain, containerized with Docker + WSL for Windows deployment.
-
-**Robotics & Computer Vision**  
-Led a 7-member team developing a Raspberry Pi based robotic arm with OpenCV object tracking and an IoT plant-watering system.
+I'm a CS graduate (USF, Cum Laude) pursuing an MS in ECE at UC Davis, specializing in **digital design and computer architecture**. I'm building a hardware design portfolio targeting ASIC/RTL engineering roles, with a focus on pipelined microarchitecture, clock domain crossing, and synthesis.
 
 ---
 
-### 📊 GitHub Stats
+## Hardware Projects
 
-![Maximiliano's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=mvvillarrealblozis&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true)
+### [RISC-V Pipelined Processor](https://github.com/mvvillarrealblozis/riscv-processor-pipelined) | Verilog, RTL Design | Feb 2026 – Apr 2026
+- Designed and verified a 5-stage RV32I pipelined processor with full forwarding, load-use hazard detection, and branch flush control
+- EX/MEM and MEM/WB bypass paths resolve RAW dependencies while minimizing pipeline stalls
+- Synthesized to Sky130 standard cells via Yosys; analyzed timing bottlenecks in decode and forwarding logic
+- Self-checking testbenches covering arithmetic, memory, branch, jump, and hazard corner cases
 
-![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mvvillarrealblozis&layout=compact&theme=github_dark&hide_border=true)
+### Dual-Clock Asynchronous FIFO | SystemVerilog, RTL Design | In Progress
+- Parameterizable dual-clock FIFO using Gray code pointer synchronization across independent clock domains
+- Two-flop synchronizer chains on read/write pointers with full/empty flag generation and metastability guarantees
+- Functional verification testbench with configurable data width and depth
 
---- 
-
-### Technical Stack
-
-**Languages:** Python, C, Java, RISC-V Assembly, Bash/Shell  
-**Systems & Tools:** Linux (Ubuntu), Docker, Git, Raspberry Pi, PyQt5, OpenCV  
-**Specialties:** Automation Scripts, Data Pipelines, System Reliability, Embedded Design  
-
----
-
-### What I’m Working Toward
-
-I’m pursuing research and advanced coursework in **embedded systems, digital hardware design, and AI for robotics**.  
-My goal is to bridge low-level systems engineering with intelligent automation, building devices that can sense, reason, and act locally, without sacrificing privacy or speed.
+### Multi-Port Bus Arbiter | SystemVerilog, RTL Design | In Progress
+- Parameterizable arbiter supporting round-robin and fixed-priority scheduling with configurable requestor count
+- Fairness guarantees and starvation prevention; targets GPU scheduling and interconnect use cases
+- Self-checking testbench verifying grant correctness, arbitration fairness, and edge cases
 
 ---
 
-### Links
+## Technical Skills
 
-📂 [GitHub Portfolio](https://github.com/mvvillarrealblozis)  
-💼 [LinkedIn](https://www.linkedin.com/in/mvvillarrealblozis)  
-✉️ [mvblax35@gmail.com](mailto:mvblax35@gmail.com)
+| | |
+|---|---|
+| **Languages** | Verilog, SystemVerilog, Python, C, Java |
+| **Digital Design** | RTL design, pipeline architecture, CDC, FSM design, arbitration |
+| **Verification** | Testbench development, simulation, waveform debugging |
+| **Tools** | Yosys, Icarus Verilog, GTKWave, Git, Linux, Docker |
 
 ---
 
+## Education
+
+**University of California, Davis** — MS, Electrical and Computer Engineering *(expected Dec 2027)*  
+Coursework: VLSI Design, High Performance Computer Architecture, IC Design & Tapeout, Advanced Verification of Digital Systems
+
+**University of San Francisco** — BS, Computer Science, Cum Laude  
+Dean's List · 4 semesters
+
+---
+
+## What I'm Working Toward
+
+I'm targeting ASIC/RTL engineering roles at companies working on high-performance silicon — processors, accelerators, and interconnects. My background in CS gives me strong footing in computer architecture; my portfolio projects are closing the gap toward industry-ready digital design skills.
+
+Open to internship opportunities starting **Summer/Fall 2027**.
+
+---
+
+📂 [GitHub](https://github.com/mvvillarrealblozis) · 💼 [LinkedIn](https://www.linkedin.com/in/mvvillarrealblozis) · ✉️ [mvblax35@gmail.com](mailto:mvblax35@gmail.com)
