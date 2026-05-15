@@ -38,17 +38,17 @@ I'm a CS graduate (USF, Cum Laude) pursuing an MS in ECE at UC Davis, specializi
 
 ## Education
 
-**University of California, Davis** — MS, Electrical and Computer Engineering *(expected Dec 2027)*  
+**University of California, Davis** MS, Electrical and Computer Engineering *(expected Dec 2027)*  
 Coursework: VLSI Design, High Performance Computer Architecture, IC Design & Tapeout, Advanced Verification of Digital Systems
 
-**University of San Francisco** — BS, Computer Science, Cum Laude  
+**University of San Francisco** BS, Computer Science, Cum Laude  
 Dean's List · 4 semesters
 
 ---
 
 ## What I'm Working Toward
 
-I'm targeting ASIC/RTL engineering roles at companies working on high-performance silicon — processors, accelerators, and interconnects. My background in CS gives me strong footing in computer architecture; my portfolio projects are closing the gap toward industry-ready digital design skills.
+I'm targeting ASIC/RTL engineering roles at companies working on high-performance silicon processors, accelerators, and interconnects. My background in CS gives me strong footing in computer architecture; my portfolio projects are closing the gap toward industry-ready digital design skills.
 
 Open to internship opportunities starting **Summer/Fall 2027**.
 
