@@ -54,4 +54,4 @@ Open to internship opportunities starting **Summer/Fall 2027**.
 
 ---
 
-📂 [GitHub](https://github.com/mvvillarrealblozis) · 💼 [LinkedIn](https://www.linkedin.com/in/mvvillarrealblozis) · ✉️ [mvblax35@gmail.com](mailto:mvblax35@gmail.com)
+📂 [GitHub](https://github.com/mvvillarrealblozis) · 💼 [LinkedIn](https://www.linkedin.com/in/maximilianovb/?skipRedirect=true) · ✉️ [mvblax35@gmail.com](mailto:mvblax35@gmail.com)
