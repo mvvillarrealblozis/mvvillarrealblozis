@@ -7,13 +7,13 @@ I'm a CS graduate (USF, Cum Laude) pursuing an MS in ECE at UC Davis, specializi
 
 ## Hardware Projects
 
-### [RISC-V Pipelined Processor](https://github.com/mvvillarrealblozis/riscv-processor-pipelined) | Verilog, RTL Design | Feb 2026 – Apr 2026
+### [RISC-V Pipelined Processor](https://github.com/mvvillarrealblozis/riscv-processor-pipelined) | Verilog, RTL Design | Feb 2026 – May 2026
 - Designed and verified a 5-stage RV32I pipelined processor with full forwarding, load-use hazard detection, and branch flush control
 - EX/MEM and MEM/WB bypass paths resolve RAW dependencies while minimizing pipeline stalls
 - Synthesized to Sky130 standard cells via Yosys; analyzed timing bottlenecks in decode and forwarding logic
 - Self-checking testbenches covering arithmetic, memory, branch, jump, and hazard corner cases
 
-### Dual-Clock Asynchronous FIFO | SystemVerilog, RTL Design | In Progress
+### [Dual-Clock Asynchronous FIFO](https://github.com/mvvillarrealblozis/dual-clock-asynchronous-fifo) | SystemVerilog, RTL Design | May 2026 - Present
 - Parameterizable dual-clock FIFO using Gray code pointer synchronization across independent clock domains
 - Two-flop synchronizer chains on read/write pointers with full/empty flag generation and metastability guarantees
 - Functional verification testbench with configurable data width and depth
