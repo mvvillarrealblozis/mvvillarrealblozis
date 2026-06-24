@@ -18,7 +18,7 @@ I'm a CS graduate (USF, Cum Laude) pursuing an MS in ECE at UC Davis, specializi
 - Two-flop synchronizer chains on read/write pointers with full/empty flag generation and metastability guarantees
 - Functional verification testbench with configurable data width and depth
 
-### Multi-Port Bus Arbiter | SystemVerilog, RTL Design | In Progress
+### [Multi-Port Bus Arbiter](https://github.com/mvvillarrealblozis/multi-port-bus-arbiter) | SystemVerilog, RTL Design | In Progress
 - Parameterizable arbiter supporting round-robin and fixed-priority scheduling with configurable requestor count
 - Fairness guarantees and starvation prevention; targets GPU scheduling and interconnect use cases
 - Self-checking testbench verifying grant correctness, arbitration fairness, and edge cases
